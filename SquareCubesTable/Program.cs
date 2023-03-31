@@ -15,4 +15,6 @@
         Console.WriteLine(9 + "\t" + (9 * 9) + "\t" + (9 * 9 * 9));
         Console.WriteLine(10 + "\t" + (10 * 10) + "\t" + (10 * 10 * 10));
     }
+    // end of Main method
 }
+// end of C3Q29 class
